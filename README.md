@@ -22,4 +22,7 @@ Se creó el sistema solicitado utilizando Python. Para lo cual se agregaron las 
 # Instrucciones
 
 1. Ingresar la cantidad de preguntas. Se tienen 3 oportunidades.
+![image](https://user-images.githubusercontent.com/84164187/137815801-b265f34b-ce0c-4aeb-979a-9cedf937c236.png)
 2. Ingresar la respuesta de la pegunta. Solo letras de la A a la E.
+![image](https://user-images.githubusercontent.com/84164187/137815875-8f404cd4-9543-4c3b-9792-8f7b68b4f739.png)
+
