@@ -29,3 +29,8 @@ Se creó el sistema solicitado utilizando Python. Para lo cual se agregaron las 
 
 ![image](https://user-images.githubusercontent.com/84164187/137817165-26094041-7819-4031-80a7-8b5968db9ce2.png)
 
+3. Al final podrás ver tus resultados
+
+![image](https://user-images.githubusercontent.com/84164187/137817287-78ed5080-b7b3-435d-9f20-8cff019db6db.png)
+
+
