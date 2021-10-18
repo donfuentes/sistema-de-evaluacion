@@ -27,5 +27,5 @@ Se creó el sistema solicitado utilizando Python. Para lo cual se agregaron las 
 
 2. Ingresar la respuesta de la pegunta. Solo letras de la A a la E.
 
-![image](https://user-images.githubusercontent.com/84164187/137816450-cbd501bc-a27f-4ed7-a87e-f5e9eead8211.png)
+![image](https://user-images.githubusercontent.com/84164187/137817165-26094041-7819-4031-80a7-8b5968db9ce2.png)
 
