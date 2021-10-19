@@ -134,6 +134,9 @@ Evalúa tus conocimientos
     elif int(number_questions) < 5:
         print("Lo lamentamos!!! Haz perdido la oportunidad de presentar tu prueba.")
 
+    elif int(number_questions) > amount_questions:
+        print("Lo lamentamos!!! Haz perdido la oportunidad de presentar tu prueba.")
+
     else:
         print("""
 ------------------------------
