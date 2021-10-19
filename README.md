@@ -33,4 +33,7 @@ Se creó el sistema solicitado utilizando Python. Para lo cual se agregaron las 
 
 ![image](https://user-images.githubusercontent.com/84164187/137817287-78ed5080-b7b3-435d-9f20-8cff019db6db.png)
 
+# Diagrama de Flujo
+
+![diagrama_sistema_de_evaluacion](https://user-images.githubusercontent.com/84164187/138001111-e1d18c2e-53cb-4b1a-9ff5-482bd5ae58ab.png)
 
