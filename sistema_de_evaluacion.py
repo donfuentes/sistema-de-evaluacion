@@ -267,7 +267,7 @@ Iniciemos!!
 
         # imprime score final
 
-        print("Tu puntaje fue --> "+str(score))
+        print("Tu puntaje fue --> "+str(round(score, 2)))
         print("Tuviste " + str(good_answers) + " respuesta(s) correcta(s) y " +
               str(bad_answers) + " respuesta(s) incorrecta(s)")
 
