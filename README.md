@@ -11,10 +11,10 @@ erradas.
 
 # Desarrollo de la solución
 Se creó el sistema solicitado utilizando Python. Para lo cual se agregaron las siguientes características:
-- Evalúa el mínimos de preguntas y la límita al máximo de preguntas cargadas
+- Evalúa el mínimo de preguntas y la límita al máximo de preguntas cargadas
 - Si no se ingresa un valor permitido (número mayor o igual a 5) se genera una advertencia para que ingrese el nuevo valor. Se tienen 3 oportunidades para ingresar el valor. Si se agotan las oportunidades se sale de la prueba.
 - Las preguntas se generan aleatoriamente sin permitir preguntas repetidas
-- Se aumentaron las opciones de respuesa a 5 respuestas únicas seleccionadas aleatoriamente de un diccionario de preguntas.
+- Se aumentaron las opciones de respuesa a 5 respuestas únicas seleccionadas aleatoriamente de un diccionario de respuestas.
 - Se evalúa la validez de la opción de respuesta, permitiendo unicamente respuestas de la A a la E
 - Califica la prueba indicando si se aprobó o no mostrando una clasificación en 3 niveles: ALTO, MEDIO y BAJO
 - Se remplazó el cambio de preguntas desde una API, por listas y diccionarios.
